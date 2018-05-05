@@ -1,0 +1,6 @@
+body {
+  background: #fff; }
+
+.gallery-list li {
+  float: left;
+  padding: 0 20px; }

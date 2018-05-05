@@ -1,0 +1,51 @@
+﻿{"id": 1,
+  "galleries": [{
+    "id": 1,
+    "title": "Test Gallery 1",
+    "list_image": "http://via.placeholder.com/150x150",
+    "images": [{
+      "id": 1,
+      "title": "Photo 1",
+      "description": "Photo 1Description for the first gallery",
+      "image": "http://via.placeholder.com/100x100"
+    },
+      {
+        "id": 2,
+        "title": "Photo 2",
+        "description": "Photo 1Description for the second gallery",
+        "image": "http://via.placeholder.com/150x150"
+      },
+      {
+        "id": 3,
+        "title": "Photo 3",
+        "description": "Photo 1Description for the third gallery",
+        "image": "http://via.placeholder.com/100x100"
+      }
+    ]
+  },
+    {
+      "id": 2,
+      "title": "Test Gallery 2",
+      "list_image": "http://via.placeholder.com/150x150",
+      "images": [{
+        "id": 1,
+        "title": "Photo 1 from gallery 2",
+        "description": "Photo 1Description for the first gallery",
+        "image": "http://via.placeholder.com/150x150"
+      },
+        {
+          "id": 2,
+          "title": "Photo 2 from gallery 2",
+          "description": "Photo 1Description for the second gallery",
+          "image": "http://via.placeholder.com/150x150"
+        },
+        {
+          "id": 2,
+          "title": "Photo 3 from gallery 2",
+          "description": "Photo 1Description for the second gallery",
+          "image": "http://via.placeholder.com/150x150"
+        }
+      ]
+    }
+  ]
+}
